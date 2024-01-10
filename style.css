@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.mainbox{
+    border: 0.00001vh solid white;
+    width: 119.25vh;
+    height: 60vh;
+    display: inline-flex;
+
+    margin-left: 20%;
+    margin-right: 20%;
+
+    border-radius: 1%;
+    margin-top: 9%;
+}
+
+.subbox1{
+    border: 0vh;
+    width: 39.75vh;
+    height: 60vh;
+    background-color: hsl(31, 77%, 52%);
+    margin: 0vh;
+    padding: 5vh;
+
+}
+
+.icon1{
+    background-image: url(icon-sedans.svg);
+    background-size: cover;
+    width: 80px;
+    height: 50px;
+}
+
+.icon2{
+    background-image: url(icon-suvs.svg);
+    background-size: cover;
+    width: 80px;
+    height: 50px;
+}
+
+.icon3{
+    background-image: url(icon-luxury.svg);
+    background-size: cover;
+    width: 80px;
+    height: 50px;
+}
+
+.title1{
+    font-family: 'Big Shoulders Display', sans-serif;
+    color: white;
+    font-size: 5vh;
+    margin-top: 4.5vh;
+}
+
+.text1{
+    font-family: 'Lexend Deca', sans-serif;
+    color: white;
+    font-size: large;
+    margin-top: 4.5vh;
+}
+
+.button1{
+    margin-top: 13vh;
+    border: 0px;
+    background-color: white;
+    border-radius: 8vh;
+    width: 18vh;
+    height: 5.5vh;
+}
+
+.button3{
+    margin-top: 15vh;
+    border: 0px;
+    background-color: white;
+    border-radius: 8vh;
+    width: 18vh;
+    height: 5.5vh;
+}
+
+.buttontext1{
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsl(31, 77%, 52%);
+    font-size: large;
+    text-align: center;
+    margin-top: 1.5vh;
+}
+
+.buttontext2{
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsl(184, 100%, 22%);
+    font-size: large;
+    text-align: center;
+    margin-top: 1.5vh;
+}
+
+.buttontext3{
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsl(179, 100%, 13%);
+    font-size: large;
+    text-align: center;
+    margin-top: 1.5vh;
+}
+
+.subbox2{
+    border: 0vh;
+    width: 39.75vh;
+    height: 60vh;
+    background-color: hsl(184, 100%, 22%);
+    margin: 0vh;  
+    padding: 5vh;
+
+}
+
+.subbox3{
+    border: 0vh;
+    width: 39.75vh;
+    height: 60vh;
+    background-color: hsl(179, 100%, 13%);
+    margin: 0vh;
+    padding: 5vh;
+
+}
+
+
+
+
+
+
+
+
